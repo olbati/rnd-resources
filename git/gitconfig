@@ -1,0 +1,25 @@
+[user]
+    name = Nizar GARRACHE
+    email = ngarrache@gmail.com
+    
+[core]
+    editor = subl -n -w
+
+[color]
+    ui = true
+
+[diff]
+    tool = diffmerge
+
+[difftool]
+    prompt = false
+
+[difftool "diffmerge"]
+    cmd = diffmerge "$LOCAL" "$REMOTE"
+
+[merge]
+    tool = diffmerge
+
+[mergetool "diffmerge"]
+    cmd = diffmerge --merge --result="$MERGED" "$LOCAL" "$BASE" "$REMOTE"
+    trustExitCode = true
