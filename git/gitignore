@@ -69,6 +69,7 @@ local.properties
 .buildpath
 .target
 .texlipse
+infinitest.filters
 
 
 ### Intellij ###
