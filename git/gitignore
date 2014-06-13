@@ -49,6 +49,10 @@ hs_err_pid*
 
 
 ### Eclipse ###
+.settings/
+.project
+.classpath
+infinitest.filters
 .prol	
 *.pydevproject
 .metadata
@@ -60,16 +64,13 @@ tmp/
 *.swp
 *~.nib
 local.properties
-.settings/
 .loadpath
-.project
 .externalToolBuilders/
 *.launch
 .cproject
 .buildpath
 .target
 .texlipse
-infinitest.filters
 
 
 ### Intellij ###
