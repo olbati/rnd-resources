@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Nizar subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="Java" title="Java">
+            <outline type="rss" text="The Coder's Breakfast" title="The Coder's Breakfast" xmlUrl="http://feeds2.feedburner.com/TheCodersBreakfast?format=xml" htmlUrl="http://thecodersbreakfast.net/index.php?"/>
+            <outline type="rss" text="Soat blog" title="Soat blog" xmlUrl="http://blog.soat.fr/feed/" htmlUrl="http://blog.soat.fr"/>
+            <outline type="rss" text="Java - Freelance . fr" title="Java - Freelance . fr" xmlUrl="http://www.java-freelance.fr/feed" htmlUrl="http://www.java-freelance.fr"/>
+            <outline type="rss" text="Adam Bien" title="Adam Bien" xmlUrl="http://www.adam-bien.com/roller/abien/feed/entries/atom" htmlUrl="http://www.adam-bien.com/roller"/>
+            <outline type="rss" text="Martin Fowler" title="Martin Fowler" xmlUrl="http://martinfowler.com/bliki/bliki.atom" htmlUrl="http://martinfowler.com"/>
+            <outline type="rss" text="Raible Designs" title="Raible Designs" xmlUrl="http://raibledesigns.com/rd/feed/entries/atom" htmlUrl="http://raibledesigns.com/rd/"/>
+            <outline type="rss" text="Antonio's Blog" title="Antonio's Blog" xmlUrl="http://agoncal.wordpress.com/feed/" htmlUrl="http://antoniogoncalves.org"/>
+            <outline type="rss" text="OCTO talks !" title="OCTO talks !" xmlUrl="http://blog.octo.com/feed/" htmlUrl="http://blog.octo.com/"/>
+            <outline type="rss" text="Le Touilleur Express" title="Le Touilleur Express" xmlUrl="http://www.touilleur-express.fr/feed/" htmlUrl="http://www.touilleur-express.fr"/>
+            <outline type="rss" text="Le Blog d'Ippon Technologies" title="Le Blog d'Ippon Technologies" xmlUrl="http://blog.ippon.fr/feed/" htmlUrl="http://blog.ippon.fr"/>
+            <outline type="rss" text="Zenika" title="Zenika" xmlUrl="http://blog.zenika.com/index.php?feed/atom" htmlUrl="http://blog.zenika.com/index.php?"/>
+            <outline type="rss" text="Les Cast Codeurs Podcast" title="Les Cast Codeurs Podcast" xmlUrl="http://lescastcodeurs.com/feed/" htmlUrl="https://lescastcodeurs.com/"/>
+            <outline type="rss" text="Java le soir » Languages » Français" title="Java le soir » Languages » Français" xmlUrl="http://blog.paumard.org/feed/" htmlUrl="http://blog.paumard.org"/>
+            <outline type="rss" text="Blog Xebia France" title="Blog Xebia France" xmlUrl="http://blog.xebia.fr/feed/" htmlUrl="http://blog.xebia.fr"/>
+            <outline type="rss" text="JavaWorld" title="JavaWorld" xmlUrl="http://www.javaworld.com/index.xml" htmlUrl="http://www.javaworld.com"/>
+            <outline type="rss" text="Java Duchess France" title="Java Duchess France" xmlUrl="http://feeds.feedburner.com/DuchessFrance" htmlUrl="http://www.duchess-france.org"/>
+        </outline>
+        <outline text="Foreign" title="Foreign">
+            <outline type="rss" text="#Rui" title="#Rui" xmlUrl="http://feeds.rui.fr/rui" htmlUrl="http://www.rui.fr"/>
+            <outline type="rss" text="Cellenza Blog" title="Cellenza Blog" xmlUrl="http://feeds.feedburner.com/CellenzaBlog" htmlUrl="http://blog.cellenza.com"/>
+            <outline type="rss" text="Julien Dollon" title="Julien Dollon" xmlUrl="http://julien.dollon.net/syndication.axd?format=rss" htmlUrl="http://julien.dollon.net/"/>
+            <outline type="rss" text="Wilfried Woivré &amp; .Net" title="Wilfried Woivré &amp; .Net" xmlUrl="http://blog.woivre.fr/Rss/Feed" htmlUrl="http://blog.woivre.fr"/>
+            <outline type="rss" text="Scott Hanselman's Blog" title="Scott Hanselman's Blog" xmlUrl="http://feeds.feedburner.com/ScottHanselman" htmlUrl="http://www.hanselman.com/blog/"/>
+            <outline type="rss" text="Scott Guthrie's Blog in French" title="Scott Guthrie's Blog in French" xmlUrl="http://weblogs.asp.net/scottgufrench/rss.aspx" htmlUrl="http://weblogs.asp.net:80/scottgufrench/"/>
+            <outline type="rss" text=".NET Rocks!" title=".NET Rocks!" xmlUrl="http://www.pwop.com/feed.aspx?show=dotnetrocks&amp;filetype=master" htmlUrl="http://www.dotnetrocks.com"/>
+        </outline>
+        <outline text="Business" title="Business">
+            <outline type="rss" text="Sylvain Tillon, Entrepreneur" title="Sylvain Tillon, Entrepreneur" xmlUrl="http://sylvaintillon.com/feed/" htmlUrl="http://sylvaintillon.com"/>
+        </outline>
+        <outline text="Web" title="Web">
+            <outline type="rss" text="Smashing Magazine Feed" title="Smashing Magazine Feed" xmlUrl="http://rss1.smashingmagazine.com/feed/" htmlUrl="http://www.smashingmagazine.com"/>
+            <outline type="rss" text="AddyOsmani.com | Articles for developers" title="AddyOsmani.com | Articles for developers" xmlUrl="http://feeds.feedburner.com/addyosmani" htmlUrl="http://addyosmani.com/blog"/>
+            <outline type="rss" text="CSS-Tricks » Article" title="CSS-Tricks » Article" xmlUrl="http://css-tricks.com/category/article/feed/" htmlUrl="https://css-tricks.com"/>
+            <outline type="rss" text="FrAngular : AngularJS en français" title="FrAngular : AngularJS en français" xmlUrl="http://feeds.feedburner.com/frangular" htmlUrl="http://www.frangular.com/"/>
+            <outline type="rss" text="La Ferme du web" title="La Ferme du web" xmlUrl="http://feeds.lafermeduweb.net/LaFermeDuWeb" htmlUrl="http://www.lafermeduweb.net"/>
+            <outline type="rss" text="Web Tambouille" title="Web Tambouille" xmlUrl="http://feeds.feedburner.com/WebTambouille" htmlUrl="http://www.web-tambouille.fr"/>
+            <outline type="rss" text="John Resig » Blog" title="John Resig » Blog" xmlUrl="http://ejohn.org/category/blog/feed/rss/" htmlUrl="http://ejohn.org"/>
+        </outline>
+        <outline text="DevOps" title="DevOps">
+            <outline type="rss" text="ScriptRock » DevOps Blog" title="ScriptRock » DevOps Blog" xmlUrl="https://www.scriptrock.com/blog/feed/" htmlUrl="http://www.scriptrock.com"/>
+            <outline type="rss" text="Everything is a Freaking DNS proble..." title="Everything is a Freaking DNS proble..." xmlUrl="http://www.krisbuytaert.be/blog/rss.xml" htmlUrl="http://www.krisbuytaert.be/blog"/>
+        </outline>
+        <outline text="Must Read" title="Must Read">
+            <outline type="rss" text="Blog Xebia France" title="Blog Xebia France" xmlUrl="http://blog.xebia.fr/feed/" htmlUrl="http://blog.xebia.fr"/>
+        </outline>
+        <outline text="Agile" title="Agile">
+            <outline type="rss" text="Agilex : Agilité et Expertise" title="Agilex : Agilité et Expertise" xmlUrl="http://www.agilex.fr/feed/" htmlUrl="http://www.agilex.fr"/>
+            <outline type="rss" text="XProgramming - An Agile Software Development Resource" title="XProgramming - An Agile Software Development Resource" xmlUrl="http://www.xprogramming.com/feed.xml" htmlUrl="http://xprogramming.com"/>
+            <outline type="rss" text="Crisp's Blog » Henrik Kniberg" title="Crisp's Blog » Henrik Kniberg" xmlUrl="http://blog.crisp.se/henrikkniberg/rss.xml" htmlUrl="http://blog.crisp.se"/>
+            <outline type="rss" text="Scrum, Agilité et Rock'n roll" title="Scrum, Agilité et Rock'n roll" xmlUrl="http://www.aubryconseil.com/feed/atom" htmlUrl="http://www.aubryconseil.com/"/>
+            <outline type="rss" text="Mike Cohn's Blog - Succeeding With ..." title="Mike Cohn's Blog - Succeeding With ..." xmlUrl="http://www.mountaingoatsoftware.com/blog/rss" htmlUrl="http://www.mountaingoatsoftware.com/blog/"/>
+            <outline type="rss" text="Scrum Log Jeff Sutherland" title="Scrum Log Jeff Sutherland" xmlUrl="http://jeffsutherland.com/scrum/rss.xml"/>
+        </outline>
+    </body>
+</opml>
